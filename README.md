@@ -1,2 +1,1 @@
-# Temp-Converter
-Temperature Converter
+The application is of great use to you whether you are traveling abroad, planning a recipe, checking the weather, or simply out of curiosity as it assists you in converting between the Fahrenheit, Celsius, and Kelvin situations efficiently and easily.
